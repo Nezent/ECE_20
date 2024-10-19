@@ -10,7 +10,7 @@
 
 # Lab Report
 
-## Title: Basic Git Commands
+## Title: Markdown Basics and Best Coding Practices
 ---
 
 **Name:** Sirajum Munir  
