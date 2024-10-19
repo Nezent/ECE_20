@@ -25,7 +25,7 @@
 
 **Submitted To:**  
 **Oishi Joyti**  
-**Lecturer**  
+**Assistant Professor**  
 **Department of Electrical & Computer Engineering (ECE)**  
 **Rajshahi University of Engineering & Technology (RUET)**
 
