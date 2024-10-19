@@ -17,7 +17,7 @@
 **Roll:** 2010013  
 **Lab Report Number:** 01   
 **Submission Date:** 19-10-2024  
-**Course Code:** ECE 3113  
+**Course Code:** ECE 3118  
 **Department:** Department of Electrical & Computer Engineering (ECE)  
 **University:** Rajshahi University of Engineering & Technology (RUET)  
 
